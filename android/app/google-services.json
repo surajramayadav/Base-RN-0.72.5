@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107638733535",
+    "project_id": "instant-1ca4d",
+    "storage_bucket": "instant-1ca4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107638733535:android:56c83f462980d878ee876a",
+        "android_client_info": {
+          "package_name": "com.instant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDdCLqKSGbFeFUdLBX31eAl7xBIHMtkvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
